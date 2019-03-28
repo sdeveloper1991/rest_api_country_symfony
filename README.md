@@ -20,7 +20,6 @@ Spain and France do not speak the same language
 ## Run the project
 ### Setup
 - `docker-compose up -d`
-- `docker-compose exec php bin/console doctrine:migrations:migrate`
 
 ## Tests
 - `docker-compose exec php vendor/bin/phpunit`
