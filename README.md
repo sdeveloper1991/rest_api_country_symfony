@@ -23,5 +23,4 @@ Spain and France do not speak the same language
 - `docker-compose exec php bin/console doctrine:migrations:migrate`
 
 ## Tests
-- `docker-compose exec php bin/console doctrine:database:create --env=test`
 - `docker-compose exec php vendor/bin/phpunit`
